@@ -1,0 +1,6 @@
+currtime=1 throughput=48
+currtime=2 throughput=189
+currtime=3 throughput=245
+currtime=4 throughput=273
+currtime=5 throughput=290
+currtime=6 throughput=302
